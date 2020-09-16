@@ -2,7 +2,7 @@
 making twitter like social media website using php-mysql-ajax
 
 dummy users:
-bigbro@mail /duke@mail.com/sharp@mail.com-987654, maria@mail.com/claudia@mail.com-123456
+bigbro@mail /duke@mail.com/sharp@mail.com-987654, maria00@mail.com/claudia@mail.com-123456
 
 
  //run mysql command line if Fatal error: Uncaught PDOException: SQLSTATE[42000]: 
